@@ -1,0 +1,19 @@
+# Default deny: add only individually reviewed public files.
+/*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/LICENSE
+!/ASSET_LICENSE.md
+!/agents/
+/agents/*
+!/agents/openai.yaml
+!/assets/
+/assets/*
+!/assets/reference-01-soft.png
+!/assets/reference-02-open-mouth.png
+!/assets/reference-03-full-body.png
+!/assets/reference-04-low-angle.png
+!/assets/reference-05-scene.png
+!/assets/reference-board.png
+!/assets/README.md
