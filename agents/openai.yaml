@@ -1,0 +1,4 @@
+interface:
+  display_name: "真人转大嘴吉"
+  short_description: "将真人照片转成个人配色与表情的大嘴吉，保留原照片场景并生成二维动漫图"
+  default_prompt: "使用 $generate-person-kuchipatchi，把我提供的真人照片转成大嘴吉，按照片选择角色颜色和表情，并将原场景改编为二维动漫。"
